@@ -1,0 +1,19 @@
+.hero {
+    background: url('/static/images/bg-image.jpg') center / cover;
+}
+.navbar-brand {
+    font-size: 150%;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.navbar-item {
+    font-weight: bold;
+}
+
+h1.title {
+    color: white;
+}
+
+h2.subtitle {
+    color: white;
+}
